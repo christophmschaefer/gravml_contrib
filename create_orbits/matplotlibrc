@@ -1,0 +1,14 @@
+font.family         : 
+font.serif          :
+
+text.usetex         : True
+text.latex.preamble : \usepackage{amsmath}
+axes.labelsize      : large
+
+legend.fontsize     : large
+legend.numpoints    : 1
+legend.frameon      : True
+
+xtick.labelsize     : large
+ytick.labelsize     : large
+
